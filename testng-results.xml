@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-14T21:48:33 IST" name="Default suite" finished-at="2025-03-14T21:48:59 IST" duration-ms="26102">
+    <groups>
+    </groups>
+    <test started-at="2025-03-14T21:48:33 IST" name="Default test" finished-at="2025-03-14T21:48:59 IST" duration-ms="26102">
+      <class name="MA3_Tricentis_Web.tricentis_dev">
+        <test-method is-config="true" signature="setup()[pri:0, instance:MA3_Tricentis_Web.tricentis_dev@31190526]" started-at="2025-03-14T21:48:33 IST" name="setup" finished-at="2025-03-14T21:48:34 IST" duration-ms="1379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="registerUser()[pri:0, instance:MA3_Tricentis_Web.tricentis_dev@31190526]" started-at="2025-03-14T21:48:34 IST" name="registerUser" finished-at="2025-03-14T21:48:39 IST" duration-ms="4390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerUser -->
+        <test-method signature="loginUser()[pri:1, instance:MA3_Tricentis_Web.tricentis_dev@31190526]" started-at="2025-03-14T21:48:39 IST" name="loginUser" finished-at="2025-03-14T21:48:41 IST" duration-ms="2319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginUser -->
+        <test-method signature="addDesktopToCart()[pri:2, instance:MA3_Tricentis_Web.tricentis_dev@31190526]" started-at="2025-03-14T21:48:41 IST" name="addDesktopToCart" finished-at="2025-03-14T21:48:50 IST" duration-ms="8705" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addDesktopToCart -->
+        <test-method signature="checkoutProcess()[pri:3, instance:MA3_Tricentis_Web.tricentis_dev@31190526]" started-at="2025-03-14T21:48:50 IST" name="checkoutProcess" finished-at="2025-03-14T21:48:52 IST" duration-ms="2124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutProcess -->
+        <test-method signature="fillPBillingDetails()[pri:4, instance:MA3_Tricentis_Web.tricentis_dev@31190526]" started-at="2025-03-14T21:48:52 IST" name="fillPBillingDetails" finished-at="2025-03-14T21:48:55 IST" duration-ms="3107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillPBillingDetails -->
+        <test-method signature="logoutUser()[pri:5, instance:MA3_Tricentis_Web.tricentis_dev@31190526]" started-at="2025-03-14T21:48:55 IST" name="logoutUser" finished-at="2025-03-14T21:48:59 IST" duration-ms="3850" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MA3_Tricentis_Web.tricentis_dev@31190526]" started-at="2025-03-14T21:48:59 IST" name="tearDown" finished-at="2025-03-14T21:48:59 IST" duration-ms="185" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MA3_Tricentis_Web.tricentis_dev -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
